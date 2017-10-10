@@ -1,3 +1,7 @@
+## Example Edit/Bio
+
+I'm super new to this and figuring this out as I go along. I have a feeling this is going to be a lot of tutorials for now... 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Rufio52/hello-world/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
