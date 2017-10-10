@@ -1,6 +1,6 @@
 ## Example Edit/Bio
 
-I'm super new to this and figuring this out as I go along. I have a feeling this is going to be a lot of tutorials for now...
+I'm super new to this and figuring this out as I go along. I have a feeling this is going to be a lot of tutorials for now... 
 
 ## Welcome to GitHub Pages
 
